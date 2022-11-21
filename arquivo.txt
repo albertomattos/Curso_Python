@@ -1,0 +1,13 @@
+
+Resultado da votação:
+
+Foram computados 11 votos no total.
+
+Jogador - Votos - %
+      2 -     1 - 9.09%
+      5 -     2 - 18.18%
+      6 -     1 - 9.09%
+      8 -     5 - 45.45%
+     10 -     2 - 18.18%
+
+O jogador mais votado foi o 8, com 5 votos
